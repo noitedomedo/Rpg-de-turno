@@ -2,6 +2,7 @@
 Trabalho da matéria de redes da faculdade. Jogo de turno battle royale usando sockets
 
 Protocolos:
+
 Mensagens Cliente → Servidor
 JOIN|nome|classe
 - Solicita entrada no lobby
